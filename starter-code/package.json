@@ -16,6 +16,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "files.associations": {
+    "*.jsx": "javascriptreact"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
